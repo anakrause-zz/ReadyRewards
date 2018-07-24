@@ -1,1 +1,3 @@
 TD ReadyRewards
+
+TD ReadyRewards is a transparent view of TD Rewards points that is EASY to use, and easy to understand. The app uses your location to show where/how many rewards points you are getting at different retailers, which feels more personal when the app adapts to your different locations. The app highlights small businesses in the list of retailers and is targeted to millennials; connecting people from all walks of life. TD ReadyRewads aligns the bank, user, and community.
